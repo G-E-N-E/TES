@@ -1,4 +1,2 @@
-TES
+TES - Test Execution Server
 ===
-
-### Test Execution Server
